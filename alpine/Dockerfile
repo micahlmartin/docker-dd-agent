@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.21.1
 
 MAINTAINER Datadog <package@datadoghq.com>
 
